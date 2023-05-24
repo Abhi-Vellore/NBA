@@ -1,2 +1,2 @@
-# nba
+# NBA
 NBA Data Plan
